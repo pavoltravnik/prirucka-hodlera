@@ -1,27 +1,25 @@
 # PRAKTICKÁ PŘÍRUČKA VLASTNÍKA KRYPTOMĚN
 
-## HODL ZA ZIVOTA I PO NĚM
+## Hodl za života i po něm
+
+[ePub ke stažení zde](https://github.com/pavoltravnik/prirucka-hodlera/blob/master/my-ebook.epub)
+
+[PDF ke stažení zde](https://www.blockchainlegal.cz/cs/ebook/)
 
 S laskavým svolením Pavla Urbaczku z advokátní kanceláře [Blockchain legal](https://www.blockchainlegal.cz/)
 
 
 ## OBSAH
 
-[Obecná doporučení](https://github.com/pavoltravnik/prirucka-hodlera/blob/master/ch01.md)
+1. [Obecná doporučení](https://github.com/pavoltravnik/prirucka-hodlera/blob/master/ch01.md)
+2. [Peňeženky a způsoby uložení - Jak uchovávat kryptoměny?](https://github.com/pavoltravnik/prirucka-hodlera/blob/master/ch02.md)
+3. [Zálohy peněženek - Jak pracovat se zálohami](https://github.com/pavoltravnik/prirucka-hodlera/blob/master/ch03.md)
+4. [Pokročilejší postupy - Jak dále zvýšit bezpečnost](https://github.com/pavoltravnik/prirucka-hodlera/blob/master/ch04.md)
+5. [K návodu - Pro sebe i ostatní](https://github.com/pavoltravnik/prirucka-hodlera/blob/master/ch05.md)
+6. [Jak na to - Z teorie a praxe](https://github.com/pavoltravnik/prirucka-hodlera/blob/master/ch06.md)
+7. [Pro případ smrti - Nežijeme věčně](https://github.com/pavoltravnik/prirucka-hodlera/blob/master/ch07.md)
+8. [Přílohy](https://github.com/pavoltravnik/prirucka-hodlera/blob/master/ch08.md)
 
-[Peňeženky a způsoby uložení - Jak uchovávat kryptoměny?](https://github.com/pavoltravnik/prirucka-hodlera/blob/master/ch02.md)
-
-[Zálohy peněženek - Jak pracovat se zálohami](https://github.com/pavoltravnik/prirucka-hodlera/blob/master/ch03.md)
-
-[Pokročilejší postupy - Jak dále zvýšit bezpečnost](https://github.com/pavoltravnik/prirucka-hodlera/blob/master/ch04.md)
-
-[K návodu - Pro sebe i ostatní](https://github.com/pavoltravnik/prirucka-hodlera/blob/master/ch05.md)
-
-[Jak na to - Z teorie a praxe](https://github.com/pavoltravnik/prirucka-hodlera/blob/master/ch06.md)
-
-[Pro případ smrti - Nežijeme věčně](https://github.com/pavoltravnik/prirucka-hodlera/blob/master/ch07.md)
-
-[Přílohy](https://github.com/pavoltravnik/prirucka-hodlera/blob/master/ch08.md)
 
 
 ## Vygenerování ePub publikace
