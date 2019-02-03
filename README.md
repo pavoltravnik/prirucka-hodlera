@@ -6,7 +6,7 @@
 
 [PDF ke stažení zde](https://www.blockchainlegal.cz/cs/ebook/)
 
-S laskavým svolením Pavla Urbaczku z advokátní kanceláře [Blockchain legal](https://www.blockchainlegal.cz/)
+S laskavým svolením Pavla Urbaczky z advokátní kanceláře [Blockchain legal](https://www.blockchainlegal.cz/)
 
 
 ## OBSAH
