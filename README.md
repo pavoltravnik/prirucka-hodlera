@@ -2,7 +2,7 @@
 
 ## Hodl za života i po něm
 
-[ePub ke stažení zde](https://github.com/pavoltravnik/prirucka-hodlera/blob/master/my-ebook.epub)
+[ePub ke stažení zde](https://github.com/pavoltravnik/prirucka-hodlera/raw/master/HODL.epub)
 
 [PDF ke stažení zde](https://www.blockchainlegal.cz/cs/ebook/)
 
@@ -25,7 +25,7 @@ S laskavým svolením Pavla Urbaczku z advokátní kanceláře [Blockchain legal
 ## Vygenerování ePub publikace
 
 ```
-pandoc -o my-ebook.epub \
+pandoc -o HODL.epub \
 --metadata title="HODL ZA ŽIVOTA I PO NĚM" \
 title.txt \
 predmluva.md \
