@@ -1,0 +1,6 @@
+---
+title: HODL ZA ZIVOTA I PO NĚM
+author: Pavel Urbaczka | Tomáš Elbert
+rights:  MIT
+language: cz-CS
+...
