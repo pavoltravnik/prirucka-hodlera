@@ -12,7 +12,7 @@ S laskavým svolením Pavla Urbaczky z advokátní kanceláře [Blockchain legal
 ## OBSAH
 
 1. [Obecná doporučení](https://github.com/pavoltravnik/prirucka-hodlera/blob/master/ch01.md)
-2. [Peňeženky a způsoby uložení - Jak uchovávat kryptoměny?](https://github.com/pavoltravnik/prirucka-hodlera/blob/master/ch02.md)
+2. [Peněženky a způsoby uložení - Jak uchovávat kryptoměny?](https://github.com/pavoltravnik/prirucka-hodlera/blob/master/ch02.md)
 3. [Zálohy peněženek - Jak pracovat se zálohami](https://github.com/pavoltravnik/prirucka-hodlera/blob/master/ch03.md)
 4. [Pokročilejší postupy - Jak dále zvýšit bezpečnost](https://github.com/pavoltravnik/prirucka-hodlera/blob/master/ch04.md)
 5. [K návodu - Pro sebe i ostatní](https://github.com/pavoltravnik/prirucka-hodlera/blob/master/ch05.md)
